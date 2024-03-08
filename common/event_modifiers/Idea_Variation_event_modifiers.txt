@@ -1,0 +1,424 @@
+####################################################
+######## Idea Variation by flogi
+####################################################
+
+grand_captain_boost = {
+	land_morale = 0.075
+}
+
+commandant_boost = {
+	discipline = 0.035
+}
+
+recruitmaster_boost = {
+	mercenary_manpower = 0.25
+}
+
+development_raised = {	
+		development_cost = 0.1
+}
+
+dynastic_involvement = {	
+		ae_impact = 0.1
+}
+
+dynastic_change = {	
+		diplomatic_upkeep = 1
+		diplomatic_reputation = 1
+}
+
+advisor_hired = {
+		advisor_cost = 0.05
+}
+
+advisor_hired_2 = {
+		advisor_cost = 0.2
+}
+
+
+zentra_dev = {	
+		local_development_cost = -0.2
+}
+
+diktatur_done = {	
+		global_unrest = 1
+}
+
+konigreich_done = {	
+		legitimacy = 1
+}
+
+improved_mercanti = {	
+	
+}
+
+improved_innovativ = {	
+	
+}
+
+sailor_converted = {	
+	
+}
+
+new_trade_center = {	
+	global_own_trade_power = -0.2
+	trade_efficiency = -0.1
+}
+
+stab_or_we = {	
+	
+}
+
+idea_variation_estate_1 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_2 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_3 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_4 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_5 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_6 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_7 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_8 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_9 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_10 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_11 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_12 = {
+	manpower_recovery_speed = 0.1
+}
+
+idea_variation_estate_13 = {
+	reform_progress_growth = 0.25
+}
+
+idea_variation_big_government_change = {
+	reform_progress_growth = -0.5
+}
+
+idea_variation_postpone_reform = {
+	reform_progress_growth = -0.25
+}
+
+idea_variation_grant_self_governance = {
+	global_autonomy = 0.2
+}
+
+idea_variation_legacy_laws = {
+	stability_cost_modifier = -0.25
+	development_cost = 0.15
+}
+
+idea_variation_corrupt_estate = {
+	yearly_corruption = 0.1
+}
+
+idea_variation_faction_1 = {
+	advisor_cost = -0.15
+	diplomatic_reputation = 2
+	global_unrest = -2
+	yearly_absolutism = -1.0
+}
+
+idea_variation_faction_2 = {
+	legitimacy = 2
+	republican_tradition = 1
+	devotion = 1
+	horde_unity = 1
+	global_missionary_strength = 0.01	
+	missionary_maintenance_cost = -0.15	
+	reform_progress_growth = -0.15
+}
+
+idea_variation_faction_3 = {
+	advisor_pool = 1
+	production_efficiency = 0.15
+	state_maintenance_modifier = -0.33
+	land_forcelimit_modifier = -0.15
+}
+
+idea_variation_faction_4 = {
+	build_cost = -0.1
+	development_cost = -0.1
+	global_autonomy = -0.05
+	manpower_recovery_speed = -0.15
+}
+
+idea_variation_faction_5 = {
+	trade_efficiency = 0.15
+	global_prov_trade_power_modifier = 0.33
+	caravan_power = 0.15	
+	ae_impact = 0.15
+}
+
+idea_variation_faction_6 = {
+	idea_cost = -0.075
+	technology_cost = -0.075
+	land_maintenance_modifier = 0.15
+}
+
+idea_variation_admin_state_1 = {
+	build_cost = -0.1
+	build_time = -0.2
+}
+
+idea_variation_admin_state_2 = {
+	core_creation = -0.1
+	diplomatic_annexation_cost = -0.1
+}
+
+idea_variation_admin_state_3 = {
+	governing_capacity = 100
+	state_governing_cost = -0.25
+	trade_company_governing_cost = -0.25
+}
+
+idea_variation_rep_interaction_1 = {
+	global_trade_goods_size_modifier = 0.15
+}
+
+idea_variation_rep_interaction_2 = {
+	global_colonial_growth = 50
+}
+
+idea_variation_rep_interaction_3 = {
+	global_manpower_modifier = 0.15
+}
+
+iv_pirate_1 = {
+	pr_buccaneers_influence = 0.1
+	war_exhaustion = -0.1
+}
+
+iv_pirate_2 = {
+	global_unrest = -1
+	navy_tradition = 0.5
+	pr_captains_influence = 0.1
+}
+
+iv_pirate_3 = {
+	development_cost = -0.05
+	tolerance_heathen = 1
+	tolerance_heretic = 1
+	pr_smugglers_influence = 0.1
+}
+
+iv_pirate_4 = {
+	pr_buccaneers_influence = 0.1
+	allowed_marine_fraction = 0.25
+	global_sailors_modifier = 0.25
+}
+
+iv_pirate_5 = {
+	pr_captains_influence = 0.1
+	heavy_ship_power = 0.1
+	movement_speed_in_fleet_modifier = 1
+}
+
+iv_pirate_6 = {
+	pr_smugglers_influence = 0.1
+	merchants = 1
+	ship_power_propagation = 0.25
+}
+
+iv_pirate_7 = {
+	pr_captains_influence = 0.1
+	harsh_treatment_cost = -0.2
+	leader_naval_fire = 1
+}
+
+iv_pirate_8 = {
+	pr_buccaneers_influence = 0.1
+	years_of_nationalism = -5
+	global_ship_recruit_speed = -0.15
+}
+
+iv_pirate_9 = {
+	pr_smugglers_influence = 0.1
+}
+
+iv_pirate_10 = {
+	pr_buccaneers_influence = 0.1
+	global_ship_cost = -0.05
+	global_ship_repair = 0.15
+}	
+
+iv_pirate_11 = {
+	pr_smugglers_influence = 0.1
+	mercenary_cost = -0.2
+}
+
+iv_pirate_12 = {
+	naval_tradition_from_battle = 0.5
+	prestige_from_naval = 0.5
+	capture_ship_chance = 0.33
+	pr_captains_influence = 0.1
+}
+
+iv_pirate_13 = {
+	loot_amount = 1
+	land_attrition = -0.05
+}
+
+iv_pirate_14 = {
+	state_governing_cost = -0.5
+	pr_buccaneers_influence = 0.1
+}
+
+iv_pirate_15 = {
+	max_absolutism = 20
+	naval_tradition_from_battle = 1
+	army_tradition_from_battle = 1
+	pr_captains_influence = 0.1
+}
+
+iv_pirate_16 = {
+	diplomatic_reputation = 2
+	improve_relation_modifier = 0.15
+	pr_smugglers_influence = 0.1
+}
+
+iv_pirate_17 = {
+	pr_buccaneers_influence = 0.1
+	republican_tradition = 0.5
+	global_sailors_modifier = 0.1
+}
+
+iv_pirate_18 = {
+	pr_smugglers_influence = 0.1
+	global_foreign_trade_power = 0.3
+}
+
+iv_pirate_19 = {
+	pr_captains_influence = 0.1
+	privateer_efficiency = 0.33
+}
+
+iv_pirate_20 = {
+
+}
+
+iv_government_ref_1 = {
+	yearly_government_power = 1.25
+	nobles_influence_modifier = -0.1
+	global_tax_modifier = 0.05
+	maratha_exclusive_influence_modifier = -0.1
+	rajput_exclusive_influence_modifier = -0.1
+}
+
+iv_government_ref_2 = {
+	reform_progress_growth = 0.1
+	parliament_effect_duration = 5
+	nobles_loyalty_modifier = 0.05
+}
+
+iv_government_ref_3 = {
+	diplomatic_annexation_cost = -0.1
+	reduced_liberty_desire = 10
+	governing_capacity = 150
+}
+
+iv_government_ref_4 = {
+
+}
+
+iv_government_ref_5 = {
+
+}
+
+iv_government_ref_6 = {
+
+}
+
+iv_government_ref_7 = {
+
+}
+
+iv_government_ref_8 = {
+
+}
+
+iv_government_ref_9 = {
+
+}
+
+iv_government_ref_10 = {
+
+}
+
+iv_government_ref_11 = {
+
+}
+
+iv_government_ref_12 = {
+
+}
+
+iv_government_ref_13 = {
+
+}
+
+iv_government_ref_14 = {
+
+}
+
+iv_government_ref_15 = {
+
+}
+
+iv_government_ref_16 = {
+
+}
+
+iv_government_ref_17 = {
+
+}
+
+iv_government_ref_18 = {
+
+}
+
+iv_government_ref_19 = {
+
+}
+
+iv_government_ref_20 = {
+
+}
+
+iv_siege_artillery_cooldown = {
+	artillery_cost = 0.1
+}
+
+iv_seize_land_done = {
+	global_unrest = 2
+}

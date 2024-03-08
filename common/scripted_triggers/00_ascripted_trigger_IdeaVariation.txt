@@ -1,0 +1,1362 @@
+has_mil_advisor = {
+	custom_trigger_tooltip = {
+		tooltip = has_mil_advisor_tooltip
+	OR = {
+		advisor = army_organiser
+		advisor = army_reformer
+		advisor = commandant
+		advisor = grand_captain
+		advisor = recruitmaster
+		advisor = fortification_expert
+		advisor = quartermaster
+		advisor = idea_var_advisor_5
+		advisor = idea_var_advisor_11
+		advisor = idea_var_advisor_12
+		advisor = idea_var_advisor_13
+		advisor = idea_var_advisor_14
+		advisor = idea_var_advisor_15
+		advisor = idea_var_advisor_16
+		advisor = idea_var_advisor_17
+		advisor = idea_var_advisor_18
+		advisor = idea_var_advisor_28
+		advisor = idea_var_advisor_29
+		}
+	}
+}
+
+has_mil_advisor_2 = {
+	custom_trigger_tooltip = {
+		tooltip = has_mil_advisor_2_tooltip
+		OR = {
+			army_organiser = 2
+			army_reformer = 2
+			commandant = 2
+			grand_captain = 2
+			recruitmaster = 2
+			fortification_expert = 2
+			quartermaster = 2
+			idea_var_advisor_5 = 2
+			idea_var_advisor_11 = 2
+			idea_var_advisor_12 = 2
+			idea_var_advisor_13 = 2
+			idea_var_advisor_14 = 2
+			idea_var_advisor_15 = 2
+			idea_var_advisor_16 = 2
+			idea_var_advisor_17 = 2
+			idea_var_advisor_18 = 2
+			idea_var_advisor_28 = 2
+			idea_var_advisor_29 = 2
+		}
+	}
+}
+
+has_mil_advisor_3 = {
+	custom_trigger_tooltip = {
+		tooltip = has_mil_advisor_3_tooltip
+		OR = {
+			army_organiser = 3
+			army_reformer = 3
+			commandant = 3
+			grand_captain = 3
+			recruitmaster = 3
+			fortification_expert = 3
+			quartermaster = 3
+			idea_var_advisor_5 = 3
+			idea_var_advisor_11 = 3
+			idea_var_advisor_12 = 3
+			idea_var_advisor_13 = 3
+			idea_var_advisor_14 = 3
+			idea_var_advisor_15 = 3
+			idea_var_advisor_16 = 3
+			idea_var_advisor_17 = 3
+			idea_var_advisor_18 = 3
+			idea_var_advisor_28 = 3
+			idea_var_advisor_29 = 3
+		}
+	}
+}		
+		
+
+has_adm_advisor = {
+	custom_trigger_tooltip = {
+		tooltip = has_adm_advisor_tooltip
+	OR = {
+		advisor = treasurer
+		advisor = philosopher
+		advisor = artist
+ 		advisor = theologian
+		advisor = master_of_mint
+		advisor = inquisitor
+		advisor = natural_scientist
+		advisor = idea_var_advisor_1
+		advisor = idea_var_advisor_3
+		advisor = idea_var_advisor_4
+		advisor = idea_var_advisor_6
+		advisor = idea_var_advisor_8
+		advisor = idea_var_advisor_9
+		advisor = idea_var_advisor_20
+		advisor = idea_var_advisor_30
+		advisor = idea_var_advisor_31
+		advisor = idea_var_advisor_32
+		}
+	}
+}
+
+has_adm_advisor_2 = {
+	custom_trigger_tooltip = {
+		tooltip = has_adm_advisor_2_tooltip
+		OR = {
+			treasurer = 2
+			philosopher = 2
+			artist = 2
+			theologian = 2
+			master_of_mint = 2
+			inquisitor = 2
+			natural_scientist = 2
+			idea_var_advisor_1 = 2
+			idea_var_advisor_3 = 2
+			idea_var_advisor_4 = 2
+			idea_var_advisor_6 = 2
+			idea_var_advisor_8 = 2
+			idea_var_advisor_9 = 2
+			idea_var_advisor_20 = 2
+			idea_var_advisor_30 = 2
+			idea_var_advisor_31 = 2
+			idea_var_advisor_32 = 2
+		}
+	}
+}
+
+has_adm_advisor_3 = {
+	custom_trigger_tooltip = {
+		tooltip = has_adm_advisor_3_tooltip
+		OR = {
+			treasurer = 3
+			philosopher = 3
+			artist = 3
+			theologian = 3
+			master_of_mint = 3
+			inquisitor = 3
+			natural_scientist = 3
+			idea_var_advisor_1 = 3
+			idea_var_advisor_3 = 3
+			idea_var_advisor_4 = 3
+			idea_var_advisor_6 = 3
+			idea_var_advisor_8 = 3
+			idea_var_advisor_9 = 3
+			idea_var_advisor_20 = 3
+			idea_var_advisor_30 = 3
+			idea_var_advisor_31 = 3
+			idea_var_advisor_32 = 3
+		}
+	}
+}
+
+has_dip_advisor = {
+	custom_trigger_tooltip = {
+		tooltip = has_dip_advisor_tooltip
+	OR = {
+		advisor = statesman
+		advisor = diplomat
+		advisor = naval_reformer
+		advisor = trader
+		advisor = colonial_governor
+		advisor = navigator
+		advisor = spymaster
+		advisor = idea_var_advisor_2
+		advisor = idea_var_advisor_7
+		advisor = idea_var_advisor_10
+		advisor = idea_var_advisor_19
+		advisor = idea_var_advisor_21
+		advisor = idea_var_advisor_22
+		advisor = idea_var_advisor_23
+		advisor = idea_var_advisor_24
+		advisor = idea_var_advisor_25
+		advisor = idea_var_advisor_26
+		advisor = idea_var_advisor_27
+		}
+	}
+}
+
+has_dip_advisor_2 = {
+	custom_trigger_tooltip = {
+		tooltip = has_dip_advisor_2_tooltip
+		OR = {
+			statesman = 2
+			diplomat = 2
+			naval_reformer = 2
+			trader = 2
+			colonial_governor = 2
+			navigator = 2
+			spymaster = 2
+			idea_var_advisor_2 = 2
+			idea_var_advisor_7 = 2
+			idea_var_advisor_10 = 2
+			idea_var_advisor_19 = 2
+			idea_var_advisor_21 = 2
+			idea_var_advisor_22 = 2
+			idea_var_advisor_23 = 2
+			idea_var_advisor_24 = 2
+			idea_var_advisor_25 = 2
+			idea_var_advisor_26 = 2
+			idea_var_advisor_27 = 2
+		}
+	}
+}
+
+has_dip_advisor_3 = {
+	custom_trigger_tooltip = {
+		tooltip = has_dip_advisor_3_tooltip
+		OR = {
+			statesman = 3
+			diplomat = 3
+			naval_reformer = 3
+			trader = 3
+			colonial_governor = 3
+			navigator = 3
+			spymaster = 3
+			idea_var_advisor_2 = 3
+			idea_var_advisor_7 = 3
+			idea_var_advisor_10 = 3
+			idea_var_advisor_19 = 3
+			idea_var_advisor_21 = 3
+			idea_var_advisor_22 = 3
+			idea_var_advisor_23 = 3
+			idea_var_advisor_24 = 3
+			idea_var_advisor_25 = 3
+			idea_var_advisor_26 = 3
+			idea_var_advisor_27 = 3
+		}
+	}
+}
+
+has_any_colonist_idea = {
+	OR = {
+		has_idea = colonial_ventures
+		has_idea = additional_colonists
+		has_idea = general_colonization_law
+		has_idea = pioneer_spirit
+		has_idea = manifest_destiny
+		has_idea = settling_the_interior
+		has_idea = cab_carib_seafaring
+		has_idea = lon_conquistadores
+		has_idea = nzh_expand_to_the_east
+		has_idea = hdr_distant_diplomacy	#Colonist is in the ambition
+		has_idea = AUS_outback_stations
+		has_idea = NZL_pokarekare_ana	#Colonist is in the ambition
+		has_idea = WSI_Colonial_Legacy	#Colonist is in the ambition
+		has_idea = asu_colonialism
+		has_idea = adu_expeditionary_sentiment
+		has_idea = ICE_nationalism	#Colonist is in the ambition
+		has_idea = maj_nusa_tenggara
+		has_idea = norse3
+		has_idea = kolonialimperium2
+	}
+}
+
+has_completed_idea_group_of_category = {
+	[[adm_ideas]
+		custom_trigger_tooltip = {
+			tooltip = has_completed_one_adm_idea_group
+			OR = {
+				full_idea_group = innovativeness_ideas
+				full_idea_group = religious_ideas
+				full_idea_group = economic_ideas
+				full_idea_group = expansion_ideas
+				full_idea_group = administrative_ideas
+				full_idea_group = humanist_ideas
+				full_idea_group = katholisch0
+				full_idea_group = protestant0
+				full_idea_group = reformiert0
+				full_idea_group = orthodox0
+				full_idea_group = islam0
+				full_idea_group = cathar0
+				full_idea_group = shinto0
+				full_idea_group = norse0
+				full_idea_group = budda0
+				full_idea_group = confuci0 
+				full_idea_group = hindu0
+				full_idea_group = tengri0
+				full_idea_group = coptic0
+				full_idea_group = helle0
+				full_idea_group = slav0
+				full_idea_group = jew0
+				full_idea_group = suomi0
+				full_idea_group = romuva0
+				full_idea_group = animist0
+				full_idea_group = feti0
+				full_idea_group = zoro0
+				full_idea_group = mane0
+				full_idea_group = ancli0
+				full_idea_group = mesoam0
+				full_idea_group = inti0
+				full_idea_group = tote0
+				full_idea_group = nahu0
+				full_idea_group = shia0
+				full_idea_group = ibadi0
+				full_idea_group = hussite0	 
+				full_idea_group = indigenous_ideas
+				full_idea_group = justiz0
+				full_idea_group = entwicklung0
+				full_idea_group = gesundheit0
+				full_idea_group = monarchie0
+				full_idea_group = republik0
+				full_idea_group = aristo0
+				full_idea_group = diktatur0
+				full_idea_group = horde0
+				full_idea_group = staatsverwaltung0
+				full_idea_group = zentra0
+				full_idea_group = dezentra0
+			}
+		}
+	]
+	[[dip_ideas]
+		custom_trigger_tooltip = {
+			tooltip = has_completed_one_dip_idea_group
+			OR = {
+				full_idea_group = spy_ideas
+				#full_idea_group = diplomatic_ideas
+				full_idea_group = trade_ideas
+				full_idea_group = exploration_ideas
+				full_idea_group = maritime_ideas
+				full_idea_group = influence_ideas
+				full_idea_group = dynasty0
+				full_idea_group = gross0
+				full_idea_group = galle0
+				full_idea_group = handel0
+				full_idea_group = kolonialimperium0
+				full_idea_group = assimilation0
+				full_idea_group = gesellschaft0
+				full_idea_group = propaganda0
+				full_idea_group = flottenbasis0
+				full_idea_group = nationalismus0
+				full_idea_group = konigreich0
+				full_idea_group = imperialismus0
+
+			}
+		}
+	]
+	[[mil_ideas]
+		custom_trigger_tooltip = {
+			tooltip = has_completed_one_mil_idea_group
+			OR = {
+				#full_idea_group = aristocracy_ideas
+				full_idea_group = offensive_ideas
+				full_idea_group = defensive_ideas
+				full_idea_group = quality_ideas
+				full_idea_group = quantity_ideas
+				#full_idea_group = naval_ideas
+				#full_idea_group = theocracy_gov_ideas
+				#full_idea_group = indigenous_ideas
+				#full_idea_group = horde_gov_ideas
+				#full_idea_group = plutocracy_ideas
+				full_idea_group = generalstab0
+				full_idea_group = stehendesheer0
+				full_idea_group = wehrpflicht0
+				full_idea_group = soldnerheer0
+				full_idea_group = waffenqualitat0
+				full_idea_group = festung0
+				full_idea_group = kriegsproduktion0
+				full_idea_group = formation0
+				full_idea_group = militarismus0
+				full_idea_group = shock0
+				full_idea_group = fire0
+			}
+		}
+	]
+}
+
+
+
+has_iv_endgame_gov_tier = {
+	
+	
+	OR = {
+				# Monarchy
+				# Economy
+				has_reform = monarchy_tier_15_wirt_1_1
+				has_reform = monarchy_tier_15_wirt_1_2
+				has_reform = monarchy_tier_15_wirt_1_3
+				has_reform = monarchy_tier_15_wirt_1_4
+				has_reform = monarchy_tier_15_wirt_1_5
+				
+				# Question of Council
+				has_reform = monarchy_tier_15_rat_1_1
+				has_reform = monarchy_tier_15_rat_1_2
+				has_reform = monarchy_tier_15_rat_1_3
+				has_reform = monarchy_tier_15_rat_1_4
+				has_reform = monarchy_tier_15_rat_1_5
+
+				# Politics Focus 1
+				has_reform = monarchy_tier_15_politik1_1_1
+				has_reform = monarchy_tier_15_politik1_1_2
+				has_reform = monarchy_tier_15_politik1_1_3
+				has_reform = monarchy_tier_15_politik1_1_4
+	
+				# State Organisation
+				has_reform = monarchy_tier_15_stateorga_1_1
+				has_reform = monarchy_tier_15_stateorga_1_2
+				has_reform = monarchy_tier_15_stateorga_1_3
+				has_reform = monarchy_tier_15_stateorga_1_4
+
+				# Domestic Policy
+				has_reform = monarchy_tier_15_inner_1_1
+				has_reform = monarchy_tier_15_inner_1_2
+				has_reform = monarchy_tier_15_inner_1_3
+				has_reform = monarchy_tier_15_inner_1_4
+				has_reform = monarchy_tier_15_inner_1_5
+
+				# Foreign Policy
+				has_reform = monarchy_tier_15_aussen_1_1
+				has_reform = monarchy_tier_15_aussen_1_2
+				has_reform = monarchy_tier_15_aussen_1_3
+				has_reform = monarchy_tier_15_aussen_1_4
+				has_reform = monarchy_tier_15_aussen_1_5
+
+				# Expansion
+				has_reform = monarchy_tier_15_expan_1_1
+				has_reform = monarchy_tier_15_expan_1_2
+				has_reform = monarchy_tier_15_expan_1_3
+				has_reform = monarchy_tier_15_expan_1_4
+				has_reform = monarchy_tier_15_expan_1_5
+
+				# Trade
+				has_reform = monarchy_tier_15_handel_1_1
+				has_reform = monarchy_tier_15_handel_1_2
+				has_reform = monarchy_tier_15_handel_1_3
+				has_reform = monarchy_tier_15_handel_1_4
+
+				# Estates
+				has_reform = monarchy_tier_15_estate_1_1
+				has_reform = monarchy_tier_15_estate_1_2
+				has_reform = monarchy_tier_15_estate_1_3
+				has_reform = monarchy_tier_15_estate_1_4
+				has_reform = monarchy_tier_15_estate_1_5
+				has_reform = monarchy_tier_15_estate_1_6
+				has_reform = monarchy_tier_15_estate_1_7
+				has_reform = monarchy_tier_15_estate_1_8
+				has_reform = monarchy_tier_15_estate_1_9
+				has_reform = monarchy_tier_15_estate_1_10
+				has_reform = monarchy_tier_15_estate_1_11
+				has_reform = monarchy_tier_15_estate_1_12
+				has_reform = monarchy_tier_15_estate_1_13
+				
+				# Politik 2
+				has_reform = monarchy_tier_15_politik2_1_1
+				has_reform = monarchy_tier_15_politik2_1_2
+				has_reform = monarchy_tier_15_politik2_1_3
+				has_reform = monarchy_tier_15_politik2_1_4
+				
+				# Checks & Balances
+				has_reform = monarchy_tier_15_checks_1_1
+				has_reform = monarchy_tier_15_checks_1_2
+				has_reform = monarchy_tier_15_checks_1_3
+				has_reform = monarchy_tier_15_checks_1_4
+				
+				# Education
+				has_reform = monarchy_tier_15_ausbildung_1_1
+				has_reform = monarchy_tier_15_ausbildung_1_2
+				has_reform = monarchy_tier_15_ausbildung_1_3
+				has_reform = monarchy_tier_15_ausbildung_1_4
+				has_reform = monarchy_tier_15_ausbildung_1_5
+				
+				# Civil Rights
+				has_reform = monarchy_tier_15_grundrechte_1_1
+				has_reform = monarchy_tier_15_grundrechte_1_2
+				has_reform = monarchy_tier_15_grundrechte_1_3
+				has_reform = monarchy_tier_15_grundrechte_1_4
+				has_reform = monarchy_tier_15_grundrechte_1_5
+				
+				# State Vision
+				has_reform = monarchy_tier_15_vision_1_1
+				has_reform = monarchy_tier_15_vision_1_2
+				has_reform = monarchy_tier_15_vision_1_3
+				has_reform = monarchy_tier_15_vision_1_4
+				
+				# Republic
+				# Economy
+				has_reform = republic_tier_15_wirt_1_1
+				has_reform = republic_tier_15_wirt_1_2
+				has_reform = republic_tier_15_wirt_1_3
+				has_reform = republic_tier_15_wirt_1_4
+				has_reform = republic_tier_15_wirt_1_5
+				
+				# Question of Council
+				has_reform = republic_tier_15_rat_1_1
+				has_reform = republic_tier_15_rat_1_2
+				has_reform = republic_tier_15_rat_1_3
+				has_reform = republic_tier_15_rat_1_4
+				has_reform = republic_tier_15_rat_1_5
+
+				# Politics Focus 1
+				has_reform = republic_tier_15_politik1_1_1
+				has_reform = republic_tier_15_politik1_1_2
+				has_reform = republic_tier_15_politik1_1_3
+				has_reform = republic_tier_15_politik1_1_4
+	
+				# State Organisation
+				has_reform = republic_tier_15_stateorga_1_1
+				has_reform = republic_tier_15_stateorga_1_2
+				has_reform = republic_tier_15_stateorga_1_3
+				has_reform = republic_tier_15_stateorga_1_4
+
+				# Domestic Policy
+				has_reform = republic_tier_15_inner_1_1
+				has_reform = republic_tier_15_inner_1_2
+				has_reform = republic_tier_15_inner_1_3
+				has_reform = republic_tier_15_inner_1_4
+				has_reform = republic_tier_15_inner_1_5
+
+				# Foreign Policy
+				has_reform = republic_tier_15_aussen_1_1
+				has_reform = republic_tier_15_aussen_1_2
+				has_reform = republic_tier_15_aussen_1_3
+				has_reform = republic_tier_15_aussen_1_4
+				has_reform = republic_tier_15_aussen_1_5
+				has_reform = republic_tier_15_aussen_1_6
+
+				# Expansion
+				has_reform = republic_tier_15_expan_1_1
+				has_reform = republic_tier_15_expan_1_2
+				has_reform = republic_tier_15_expan_1_3
+				has_reform = republic_tier_15_expan_1_4
+				has_reform = republic_tier_15_expan_1_5
+
+				# Trade
+				has_reform = republic_tier_15_handel_1_1
+				has_reform = republic_tier_15_handel_1_2
+				has_reform = republic_tier_15_handel_1_3
+				has_reform = republic_tier_15_handel_1_4
+
+				# Estates
+				has_reform = republic_tier_15_estate_1_1
+				has_reform = republic_tier_15_estate_1_2
+				has_reform = republic_tier_15_estate_1_3
+				has_reform = republic_tier_15_estate_1_4
+				has_reform = republic_tier_15_estate_1_5
+				has_reform = republic_tier_15_estate_1_6
+				has_reform = republic_tier_15_estate_1_7
+				has_reform = republic_tier_15_estate_1_8
+				has_reform = republic_tier_15_estate_1_9
+				has_reform = republic_tier_15_estate_1_10
+				has_reform = republic_tier_15_estate_1_11
+				has_reform = republic_tier_15_estate_1_12
+				has_reform = republic_tier_15_estate_1_13
+				
+				# Politik 2
+				has_reform = republic_tier_15_politik2_1_1
+				has_reform = republic_tier_15_politik2_1_2
+				has_reform = republic_tier_15_politik2_1_3
+				has_reform = republic_tier_15_politik2_1_4
+				
+				# Checks & Balances
+				has_reform = republic_tier_15_checks_1_1
+				has_reform = republic_tier_15_checks_1_2
+				has_reform = republic_tier_15_checks_1_3
+				has_reform = republic_tier_15_checks_1_4
+				has_reform = republic_tier_15_checks_1_5
+				has_reform = republic_tier_15_checks_1_6
+				has_reform = republic_tier_15_checks_1_7
+				
+				# Education
+				has_reform = republic_tier_15_ausbildung_1_1
+				has_reform = republic_tier_15_ausbildung_1_2
+				has_reform = republic_tier_15_ausbildung_1_3
+				has_reform = republic_tier_15_ausbildung_1_4
+				has_reform = republic_tier_15_ausbildung_1_5
+				
+				# Civil Rights
+				has_reform = republic_tier_15_grundrechte_1_1
+				has_reform = republic_tier_15_grundrechte_1_2
+				has_reform = republic_tier_15_grundrechte_1_3
+				has_reform = republic_tier_15_grundrechte_1_4
+				has_reform = republic_tier_15_grundrechte_1_5
+				
+				# State Vision
+				has_reform = republic_tier_15_vision_1_1
+				has_reform = republic_tier_15_vision_1_2
+				has_reform = republic_tier_15_vision_1_3
+				has_reform = republic_tier_15_vision_1_4
+				
+				#Theocracy
+				# Economy
+				has_reform = theocracy_tier_15_wirt_1_1
+				has_reform = theocracy_tier_15_wirt_1_2
+				has_reform = theocracy_tier_15_wirt_1_3
+				has_reform = theocracy_tier_15_wirt_1_4
+				has_reform = theocracy_tier_15_wirt_1_5
+				
+				# Question of Council
+				has_reform = theocracy_tier_15_rat_1_1
+				has_reform = theocracy_tier_15_rat_1_2
+				has_reform = theocracy_tier_15_rat_1_3
+				has_reform = theocracy_tier_15_rat_1_4
+				has_reform = theocracy_tier_15_rat_1_5
+
+				# Politics Focus 1
+				has_reform = theocracy_tier_15_politik1_1_1
+				has_reform = theocracy_tier_15_politik1_1_2
+				has_reform = theocracy_tier_15_politik1_1_3
+				has_reform = theocracy_tier_15_politik1_1_4
+	
+				# State Organisation
+				has_reform = theocracy_tier_15_stateorga_1_1
+				has_reform = theocracy_tier_15_stateorga_1_2
+				has_reform = theocracy_tier_15_stateorga_1_3
+				has_reform = theocracy_tier_15_stateorga_1_4
+
+				# Domestic Policy
+				has_reform = theocracy_tier_15_inner_1_1
+				has_reform = theocracy_tier_15_inner_1_2
+				has_reform = theocracy_tier_15_inner_1_3
+				has_reform = theocracy_tier_15_inner_1_4
+				has_reform = theocracy_tier_15_inner_1_5
+
+				# Foreign Policy
+				has_reform = theocracy_tier_15_aussen_1_1
+				has_reform = theocracy_tier_15_aussen_1_2
+				has_reform = theocracy_tier_15_aussen_1_3
+				has_reform = theocracy_tier_15_aussen_1_4
+				has_reform = theocracy_tier_15_aussen_1_5
+				has_reform = theocracy_tier_15_aussen_1_6
+
+				# Expansion
+				has_reform = theocracy_tier_15_expan_1_1
+				has_reform = theocracy_tier_15_expan_1_2
+				has_reform = theocracy_tier_15_expan_1_3
+				has_reform = theocracy_tier_15_expan_1_4
+				has_reform = theocracy_tier_15_expan_1_5
+				has_reform = theocracy_tier_15_expan_1_6
+
+				# Trade
+				has_reform = theocracy_tier_15_handel_1_1
+				has_reform = theocracy_tier_15_handel_1_2
+				has_reform = theocracy_tier_15_handel_1_3
+				has_reform = theocracy_tier_15_handel_1_4
+
+				# Estates
+				has_reform = theocracy_tier_15_estate_1_1
+				has_reform = theocracy_tier_15_estate_1_2
+				has_reform = theocracy_tier_15_estate_1_3
+				has_reform = theocracy_tier_15_estate_1_4
+				has_reform = theocracy_tier_15_estate_1_5
+				has_reform = theocracy_tier_15_estate_1_6
+				has_reform = theocracy_tier_15_estate_1_7
+				has_reform = theocracy_tier_15_estate_1_8
+				has_reform = theocracy_tier_15_estate_1_9
+				has_reform = theocracy_tier_15_estate_1_10
+				has_reform = theocracy_tier_15_estate_1_11
+				has_reform = theocracy_tier_15_estate_1_12
+				has_reform = theocracy_tier_15_estate_1_13
+				
+				# Politik 2
+				has_reform = theocracy_tier_15_politik2_1_1
+				has_reform = theocracy_tier_15_politik2_1_2
+				has_reform = theocracy_tier_15_politik2_1_3
+				has_reform = theocracy_tier_15_politik2_1_4
+				
+				# Checks & Balances
+				has_reform = theocracy_tier_15_checks_1_1
+				has_reform = theocracy_tier_15_checks_1_2
+				has_reform = theocracy_tier_15_checks_1_3
+				has_reform = theocracy_tier_15_checks_1_4
+				has_reform = theocracy_tier_15_checks_1_5
+				
+				# Education
+				has_reform = theocracy_tier_15_ausbildung_1_1
+				has_reform = theocracy_tier_15_ausbildung_1_2
+				has_reform = theocracy_tier_15_ausbildung_1_3
+				has_reform = theocracy_tier_15_ausbildung_1_4
+				has_reform = theocracy_tier_15_ausbildung_1_5
+				
+				# Civil Rights
+				has_reform = theocracy_tier_15_grundrechte_1_1
+				has_reform = theocracy_tier_15_grundrechte_1_2
+				has_reform = theocracy_tier_15_grundrechte_1_3
+				has_reform = theocracy_tier_15_grundrechte_1_4
+				has_reform = theocracy_tier_15_grundrechte_1_5
+				
+				# State Vision
+				has_reform = theocracy_tier_15_vision_1_1
+				has_reform = theocracy_tier_15_vision_1_2
+				has_reform = theocracy_tier_15_vision_1_3
+				has_reform = theocracy_tier_15_vision_1_4
+	}
+}
+
+has_iv_gov_estate_1 = {
+
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_1
+				has_reform = monarchy_tier_3_estate_1_1
+				has_reform = monarchy_tier_4_estate_1_1
+				has_reform = monarchy_tier_5_estate_1_1
+				has_reform = monarchy_tier_6_estate_1_1
+				has_reform = monarchy_tier_7_estate_1_1
+				has_reform = monarchy_tier_8_estate_1_1
+				has_reform = monarchy_tier_9_estate_1_1
+				has_reform = monarchy_tier_10_estate_1_1
+				has_reform = monarchy_tier_11_estate_1_1
+				has_reform = monarchy_tier_12_estate_1_1
+				has_reform = monarchy_tier_13_estate_1_1
+				has_reform = monarchy_tier_14_estate_1_1
+				has_reform = monarchy_tier_15_estate_1_1
+				has_reform = republic_tier_2_estate_1_1
+				has_reform = republic_tier_3_estate_1_1
+				has_reform = republic_tier_4_estate_1_1
+				has_reform = republic_tier_5_estate_1_1
+				has_reform = republic_tier_6_estate_1_1
+				has_reform = republic_tier_7_estate_1_1
+				has_reform = republic_tier_8_estate_1_1
+				has_reform = republic_tier_9_estate_1_1
+				has_reform = republic_tier_10_estate_1_1
+				has_reform = republic_tier_11_estate_1_1
+				has_reform = republic_tier_12_estate_1_1
+				has_reform = republic_tier_13_estate_1_1
+				has_reform = republic_tier_14_estate_1_1
+				has_reform = republic_tier_15_estate_1_1
+				has_reform = theocracy_tier_2_estate_1_1
+				has_reform = theocracy_tier_3_estate_1_1
+				has_reform = theocracy_tier_4_estate_1_1
+				has_reform = theocracy_tier_5_estate_1_1
+				has_reform = theocracy_tier_6_estate_1_1
+				has_reform = theocracy_tier_7_estate_1_1
+				has_reform = theocracy_tier_8_estate_1_1
+				has_reform = theocracy_tier_9_estate_1_1
+				has_reform = theocracy_tier_10_estate_1_1
+				has_reform = theocracy_tier_11_estate_1_1
+				has_reform = theocracy_tier_12_estate_1_1
+				has_reform = theocracy_tier_13_estate_1_1
+				has_reform = theocracy_tier_14_estate_1_1
+				has_reform = theocracy_tier_15_estate_1_1
+				}
+}
+
+has_iv_gov_estate_2 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_2
+				has_reform = monarchy_tier_3_estate_1_2
+				has_reform = monarchy_tier_4_estate_1_2
+				has_reform = monarchy_tier_5_estate_1_2
+				has_reform = monarchy_tier_6_estate_1_2
+				has_reform = monarchy_tier_7_estate_1_2
+				has_reform = monarchy_tier_8_estate_1_2
+				has_reform = monarchy_tier_9_estate_1_2
+				has_reform = monarchy_tier_10_estate_1_2
+				has_reform = monarchy_tier_11_estate_1_2
+				has_reform = monarchy_tier_12_estate_1_2
+				has_reform = monarchy_tier_13_estate_1_2
+				has_reform = monarchy_tier_14_estate_1_2
+				has_reform = monarchy_tier_15_estate_1_2
+				has_reform = republic_tier_2_estate_1_2
+				has_reform = republic_tier_3_estate_1_2
+				has_reform = republic_tier_4_estate_1_2
+				has_reform = republic_tier_5_estate_1_2
+				has_reform = republic_tier_6_estate_1_2
+				has_reform = republic_tier_7_estate_1_2
+				has_reform = republic_tier_8_estate_1_2
+				has_reform = republic_tier_9_estate_1_2
+				has_reform = republic_tier_10_estate_1_2
+				has_reform = republic_tier_11_estate_1_2
+				has_reform = republic_tier_12_estate_1_2
+				has_reform = republic_tier_13_estate_1_2
+				has_reform = republic_tier_14_estate_1_2
+				has_reform = republic_tier_15_estate_1_2
+				has_reform = theocracy_tier_2_estate_1_2
+				has_reform = theocracy_tier_3_estate_1_2
+				has_reform = theocracy_tier_4_estate_1_2
+				has_reform = theocracy_tier_5_estate_1_2
+				has_reform = theocracy_tier_6_estate_1_2
+				has_reform = theocracy_tier_7_estate_1_2
+				has_reform = theocracy_tier_8_estate_1_2
+				has_reform = theocracy_tier_9_estate_1_2
+				has_reform = theocracy_tier_10_estate_1_2
+				has_reform = theocracy_tier_11_estate_1_2
+				has_reform = theocracy_tier_12_estate_1_2
+				has_reform = theocracy_tier_13_estate_1_2
+				has_reform = theocracy_tier_14_estate_1_2
+				has_reform = theocracy_tier_15_estate_1_2
+				}
+}
+
+has_iv_gov_estate_3 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_3
+				has_reform = monarchy_tier_3_estate_1_3
+				has_reform = monarchy_tier_4_estate_1_3
+				has_reform = monarchy_tier_5_estate_1_3
+				has_reform = monarchy_tier_6_estate_1_3
+				has_reform = monarchy_tier_7_estate_1_3
+				has_reform = monarchy_tier_8_estate_1_3
+				has_reform = monarchy_tier_9_estate_1_3
+				has_reform = monarchy_tier_10_estate_1_3
+				has_reform = monarchy_tier_11_estate_1_3
+				has_reform = monarchy_tier_12_estate_1_3
+				has_reform = monarchy_tier_13_estate_1_3
+				has_reform = monarchy_tier_14_estate_1_3
+				has_reform = monarchy_tier_15_estate_1_3
+				has_reform = republic_tier_2_estate_1_3
+				has_reform = republic_tier_3_estate_1_3
+				has_reform = republic_tier_4_estate_1_3
+				has_reform = republic_tier_5_estate_1_3
+				has_reform = republic_tier_6_estate_1_3
+				has_reform = republic_tier_7_estate_1_3
+				has_reform = republic_tier_8_estate_1_3
+				has_reform = republic_tier_9_estate_1_3
+				has_reform = republic_tier_10_estate_1_3
+				has_reform = republic_tier_11_estate_1_3
+				has_reform = republic_tier_12_estate_1_3
+				has_reform = republic_tier_13_estate_1_3
+				has_reform = republic_tier_14_estate_1_3
+				has_reform = republic_tier_15_estate_1_3
+				has_reform = theocracy_tier_2_estate_1_3
+				has_reform = theocracy_tier_3_estate_1_3
+				has_reform = theocracy_tier_4_estate_1_3
+				has_reform = theocracy_tier_5_estate_1_3
+				has_reform = theocracy_tier_6_estate_1_3
+				has_reform = theocracy_tier_7_estate_1_3
+				has_reform = theocracy_tier_8_estate_1_3
+				has_reform = theocracy_tier_9_estate_1_3
+				has_reform = theocracy_tier_10_estate_1_3
+				has_reform = theocracy_tier_11_estate_1_3
+				has_reform = theocracy_tier_12_estate_1_3
+				has_reform = theocracy_tier_13_estate_1_3
+				has_reform = theocracy_tier_14_estate_1_3
+				has_reform = theocracy_tier_15_estate_1_3
+				}
+}
+
+has_iv_gov_estate_4 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_4
+				has_reform = monarchy_tier_3_estate_1_4
+				has_reform = monarchy_tier_4_estate_1_4
+				has_reform = monarchy_tier_5_estate_1_4
+				has_reform = monarchy_tier_6_estate_1_4
+				has_reform = monarchy_tier_7_estate_1_4
+				has_reform = monarchy_tier_8_estate_1_4
+				has_reform = monarchy_tier_9_estate_1_4
+				has_reform = monarchy_tier_10_estate_1_4
+				has_reform = monarchy_tier_11_estate_1_4
+				has_reform = monarchy_tier_12_estate_1_4
+				has_reform = monarchy_tier_13_estate_1_4
+				has_reform = monarchy_tier_14_estate_1_4
+				has_reform = monarchy_tier_15_estate_1_4
+				has_reform = republic_tier_2_estate_1_4
+				has_reform = republic_tier_3_estate_1_4
+				has_reform = republic_tier_4_estate_1_4
+				has_reform = republic_tier_5_estate_1_4
+				has_reform = republic_tier_6_estate_1_4
+				has_reform = republic_tier_7_estate_1_4
+				has_reform = republic_tier_8_estate_1_4
+				has_reform = republic_tier_9_estate_1_4
+				has_reform = republic_tier_10_estate_1_4
+				has_reform = republic_tier_11_estate_1_4
+				has_reform = republic_tier_12_estate_1_4
+				has_reform = republic_tier_13_estate_1_4
+				has_reform = republic_tier_14_estate_1_4
+				has_reform = republic_tier_15_estate_1_4
+				has_reform = theocracy_tier_2_estate_1_4
+				has_reform = theocracy_tier_3_estate_1_4
+				has_reform = theocracy_tier_4_estate_1_4
+				has_reform = theocracy_tier_5_estate_1_4
+				has_reform = theocracy_tier_6_estate_1_4
+				has_reform = theocracy_tier_7_estate_1_4
+				has_reform = theocracy_tier_8_estate_1_4
+				has_reform = theocracy_tier_9_estate_1_4
+				has_reform = theocracy_tier_10_estate_1_4
+				has_reform = theocracy_tier_11_estate_1_4
+				has_reform = theocracy_tier_12_estate_1_4
+				has_reform = theocracy_tier_13_estate_1_4
+				has_reform = theocracy_tier_14_estate_1_4
+				has_reform = theocracy_tier_15_estate_1_4
+				}
+}
+
+has_iv_gov_estate_5 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_5
+				has_reform = monarchy_tier_3_estate_1_5
+				has_reform = monarchy_tier_4_estate_1_5
+				has_reform = monarchy_tier_5_estate_1_5
+				has_reform = monarchy_tier_6_estate_1_5
+				has_reform = monarchy_tier_7_estate_1_5
+				has_reform = monarchy_tier_8_estate_1_5
+				has_reform = monarchy_tier_9_estate_1_5
+				has_reform = monarchy_tier_10_estate_1_5
+				has_reform = monarchy_tier_11_estate_1_5
+				has_reform = monarchy_tier_12_estate_1_5
+				has_reform = monarchy_tier_13_estate_1_5
+				has_reform = monarchy_tier_14_estate_1_5
+				has_reform = monarchy_tier_15_estate_1_5
+				has_reform = republic_tier_2_estate_1_5
+				has_reform = republic_tier_3_estate_1_5
+				has_reform = republic_tier_4_estate_1_5
+				has_reform = republic_tier_5_estate_1_5
+				has_reform = republic_tier_6_estate_1_5
+				has_reform = republic_tier_7_estate_1_5
+				has_reform = republic_tier_8_estate_1_5
+				has_reform = republic_tier_9_estate_1_5
+				has_reform = republic_tier_10_estate_1_5
+				has_reform = republic_tier_11_estate_1_5
+				has_reform = republic_tier_12_estate_1_5
+				has_reform = republic_tier_13_estate_1_5
+				has_reform = republic_tier_14_estate_1_5
+				has_reform = republic_tier_15_estate_1_5
+				has_reform = theocracy_tier_2_estate_1_5
+				has_reform = theocracy_tier_3_estate_1_5
+				has_reform = theocracy_tier_4_estate_1_5
+				has_reform = theocracy_tier_5_estate_1_5
+				has_reform = theocracy_tier_6_estate_1_5
+				has_reform = theocracy_tier_7_estate_1_5
+				has_reform = theocracy_tier_8_estate_1_5
+				has_reform = theocracy_tier_9_estate_1_5
+				has_reform = theocracy_tier_10_estate_1_5
+				has_reform = theocracy_tier_11_estate_1_5
+				has_reform = theocracy_tier_12_estate_1_5
+				has_reform = theocracy_tier_13_estate_1_5
+				has_reform = theocracy_tier_14_estate_1_5
+				has_reform = theocracy_tier_15_estate_1_5
+				}
+}
+
+has_iv_gov_estate_6 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_6
+				has_reform = monarchy_tier_3_estate_1_6
+				has_reform = monarchy_tier_4_estate_1_6
+				has_reform = monarchy_tier_5_estate_1_6
+				has_reform = monarchy_tier_6_estate_1_6
+				has_reform = monarchy_tier_7_estate_1_6
+				has_reform = monarchy_tier_8_estate_1_6
+				has_reform = monarchy_tier_9_estate_1_6
+				has_reform = monarchy_tier_10_estate_1_6
+				has_reform = monarchy_tier_11_estate_1_6
+				has_reform = monarchy_tier_12_estate_1_6
+				has_reform = monarchy_tier_13_estate_1_6
+				has_reform = monarchy_tier_14_estate_1_6
+				has_reform = monarchy_tier_15_estate_1_6
+				has_reform = republic_tier_2_estate_1_6
+				has_reform = republic_tier_3_estate_1_6
+				has_reform = republic_tier_4_estate_1_6
+				has_reform = republic_tier_5_estate_1_6
+				has_reform = republic_tier_6_estate_1_6
+				has_reform = republic_tier_7_estate_1_6
+				has_reform = republic_tier_8_estate_1_6
+				has_reform = republic_tier_9_estate_1_6
+				has_reform = republic_tier_10_estate_1_6
+				has_reform = republic_tier_11_estate_1_6
+				has_reform = republic_tier_12_estate_1_6
+				has_reform = republic_tier_13_estate_1_6
+				has_reform = republic_tier_14_estate_1_6
+				has_reform = republic_tier_15_estate_1_6
+				has_reform = theocracy_tier_2_estate_1_6
+				has_reform = theocracy_tier_3_estate_1_6
+				has_reform = theocracy_tier_4_estate_1_6
+				has_reform = theocracy_tier_5_estate_1_6
+				has_reform = theocracy_tier_6_estate_1_6
+				has_reform = theocracy_tier_7_estate_1_6
+				has_reform = theocracy_tier_8_estate_1_6
+				has_reform = theocracy_tier_9_estate_1_6
+				has_reform = theocracy_tier_10_estate_1_6
+				has_reform = theocracy_tier_11_estate_1_6
+				has_reform = theocracy_tier_12_estate_1_6
+				has_reform = theocracy_tier_13_estate_1_6
+				has_reform = theocracy_tier_14_estate_1_6
+				has_reform = theocracy_tier_15_estate_1_6
+				}
+}
+
+has_iv_gov_estate_7 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_7
+				has_reform = monarchy_tier_3_estate_1_7
+				has_reform = monarchy_tier_4_estate_1_7
+				has_reform = monarchy_tier_5_estate_1_7
+				has_reform = monarchy_tier_6_estate_1_7
+				has_reform = monarchy_tier_7_estate_1_7
+				has_reform = monarchy_tier_8_estate_1_7
+				has_reform = monarchy_tier_9_estate_1_7
+				has_reform = monarchy_tier_10_estate_1_7
+				has_reform = monarchy_tier_11_estate_1_7
+				has_reform = monarchy_tier_12_estate_1_7
+				has_reform = monarchy_tier_13_estate_1_7
+				has_reform = monarchy_tier_14_estate_1_7
+				has_reform = monarchy_tier_15_estate_1_7
+				has_reform = republic_tier_2_estate_1_7
+				has_reform = republic_tier_3_estate_1_7
+				has_reform = republic_tier_4_estate_1_7
+				has_reform = republic_tier_5_estate_1_7
+				has_reform = republic_tier_6_estate_1_7
+				has_reform = republic_tier_7_estate_1_7
+				has_reform = republic_tier_8_estate_1_7
+				has_reform = republic_tier_9_estate_1_7
+				has_reform = republic_tier_10_estate_1_7
+				has_reform = republic_tier_11_estate_1_7
+				has_reform = republic_tier_12_estate_1_7
+				has_reform = republic_tier_13_estate_1_7
+				has_reform = republic_tier_14_estate_1_7
+				has_reform = republic_tier_15_estate_1_7
+				has_reform = theocracy_tier_2_estate_1_7
+				has_reform = theocracy_tier_3_estate_1_7
+				has_reform = theocracy_tier_4_estate_1_7
+				has_reform = theocracy_tier_5_estate_1_7
+				has_reform = theocracy_tier_6_estate_1_7
+				has_reform = theocracy_tier_7_estate_1_7
+				has_reform = theocracy_tier_8_estate_1_7
+				has_reform = theocracy_tier_9_estate_1_7
+				has_reform = theocracy_tier_10_estate_1_7
+				has_reform = theocracy_tier_11_estate_1_7
+				has_reform = theocracy_tier_12_estate_1_7
+				has_reform = theocracy_tier_13_estate_1_7
+				has_reform = theocracy_tier_14_estate_1_7
+				has_reform = theocracy_tier_15_estate_1_7
+				}
+}
+
+has_iv_gov_estate_8 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_8
+				has_reform = monarchy_tier_3_estate_1_8
+				has_reform = monarchy_tier_4_estate_1_8
+				has_reform = monarchy_tier_5_estate_1_8
+				has_reform = monarchy_tier_6_estate_1_8
+				has_reform = monarchy_tier_7_estate_1_8
+				has_reform = monarchy_tier_8_estate_1_8
+				has_reform = monarchy_tier_9_estate_1_8
+				has_reform = monarchy_tier_10_estate_1_8
+				has_reform = monarchy_tier_11_estate_1_8
+				has_reform = monarchy_tier_12_estate_1_8
+				has_reform = monarchy_tier_13_estate_1_8
+				has_reform = monarchy_tier_14_estate_1_8
+				has_reform = monarchy_tier_15_estate_1_8
+				has_reform = republic_tier_2_estate_1_8
+				has_reform = republic_tier_3_estate_1_8
+				has_reform = republic_tier_4_estate_1_8
+				has_reform = republic_tier_5_estate_1_8
+				has_reform = republic_tier_6_estate_1_8
+				has_reform = republic_tier_7_estate_1_8
+				has_reform = republic_tier_8_estate_1_8
+				has_reform = republic_tier_9_estate_1_8
+				has_reform = republic_tier_10_estate_1_8
+				has_reform = republic_tier_11_estate_1_8
+				has_reform = republic_tier_12_estate_1_8
+				has_reform = republic_tier_13_estate_1_8
+				has_reform = republic_tier_14_estate_1_8
+				has_reform = republic_tier_15_estate_1_8
+				has_reform = theocracy_tier_2_estate_1_8
+				has_reform = theocracy_tier_3_estate_1_8
+				has_reform = theocracy_tier_4_estate_1_8
+				has_reform = theocracy_tier_5_estate_1_8
+				has_reform = theocracy_tier_6_estate_1_8
+				has_reform = theocracy_tier_7_estate_1_8
+				has_reform = theocracy_tier_8_estate_1_8
+				has_reform = theocracy_tier_9_estate_1_8
+				has_reform = theocracy_tier_10_estate_1_8
+				has_reform = theocracy_tier_11_estate_1_8
+				has_reform = theocracy_tier_12_estate_1_8
+				has_reform = theocracy_tier_13_estate_1_8
+				has_reform = theocracy_tier_14_estate_1_8
+				has_reform = theocracy_tier_15_estate_1_8
+				}
+}
+
+has_iv_gov_estate_9 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_9
+				has_reform = monarchy_tier_3_estate_1_9
+				has_reform = monarchy_tier_4_estate_1_9
+				has_reform = monarchy_tier_5_estate_1_9
+				has_reform = monarchy_tier_6_estate_1_9
+				has_reform = monarchy_tier_7_estate_1_9
+				has_reform = monarchy_tier_8_estate_1_9
+				has_reform = monarchy_tier_9_estate_1_9
+				has_reform = monarchy_tier_10_estate_1_9
+				has_reform = monarchy_tier_11_estate_1_9
+				has_reform = monarchy_tier_12_estate_1_9
+				has_reform = monarchy_tier_13_estate_1_9
+				has_reform = monarchy_tier_14_estate_1_9
+				has_reform = monarchy_tier_15_estate_1_9
+				has_reform = republic_tier_2_estate_1_9
+				has_reform = republic_tier_3_estate_1_9
+				has_reform = republic_tier_4_estate_1_9
+				has_reform = republic_tier_5_estate_1_9
+				has_reform = republic_tier_6_estate_1_9
+				has_reform = republic_tier_7_estate_1_9
+				has_reform = republic_tier_8_estate_1_9
+				has_reform = republic_tier_9_estate_1_9
+				has_reform = republic_tier_10_estate_1_9
+				has_reform = republic_tier_11_estate_1_9
+				has_reform = republic_tier_12_estate_1_9
+				has_reform = republic_tier_13_estate_1_9
+				has_reform = republic_tier_14_estate_1_9
+				has_reform = republic_tier_15_estate_1_9
+				has_reform = theocracy_tier_2_estate_1_9
+				has_reform = theocracy_tier_3_estate_1_9
+				has_reform = theocracy_tier_4_estate_1_9
+				has_reform = theocracy_tier_5_estate_1_9
+				has_reform = theocracy_tier_6_estate_1_9
+				has_reform = theocracy_tier_7_estate_1_9
+				has_reform = theocracy_tier_8_estate_1_9
+				has_reform = theocracy_tier_9_estate_1_9
+				has_reform = theocracy_tier_10_estate_1_9
+				has_reform = theocracy_tier_11_estate_1_9
+				has_reform = theocracy_tier_12_estate_1_9
+				has_reform = theocracy_tier_13_estate_1_9
+				has_reform = theocracy_tier_14_estate_1_9
+				has_reform = theocracy_tier_15_estate_1_9
+				}
+}
+
+has_iv_gov_estate_10 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_10
+				has_reform = monarchy_tier_3_estate_1_10
+				has_reform = monarchy_tier_4_estate_1_10
+				has_reform = monarchy_tier_5_estate_1_10
+				has_reform = monarchy_tier_6_estate_1_10
+				has_reform = monarchy_tier_7_estate_1_10
+				has_reform = monarchy_tier_8_estate_1_10
+				has_reform = monarchy_tier_9_estate_1_10
+				has_reform = monarchy_tier_10_estate_1_10
+				has_reform = monarchy_tier_11_estate_1_10
+				has_reform = monarchy_tier_12_estate_1_10
+				has_reform = monarchy_tier_13_estate_1_10
+				has_reform = monarchy_tier_14_estate_1_10
+				has_reform = monarchy_tier_15_estate_1_10
+				has_reform = republic_tier_2_estate_1_10
+				has_reform = republic_tier_3_estate_1_10
+				has_reform = republic_tier_4_estate_1_10
+				has_reform = republic_tier_5_estate_1_10
+				has_reform = republic_tier_6_estate_1_10
+				has_reform = republic_tier_7_estate_1_10
+				has_reform = republic_tier_8_estate_1_10
+				has_reform = republic_tier_9_estate_1_10
+				has_reform = republic_tier_10_estate_1_10
+				has_reform = republic_tier_11_estate_1_10
+				has_reform = republic_tier_12_estate_1_10
+				has_reform = republic_tier_13_estate_1_10
+				has_reform = republic_tier_14_estate_1_10
+				has_reform = republic_tier_15_estate_1_10
+				has_reform = theocracy_tier_2_estate_1_10
+				has_reform = theocracy_tier_3_estate_1_10
+				has_reform = theocracy_tier_4_estate_1_10
+				has_reform = theocracy_tier_5_estate_1_10
+				has_reform = theocracy_tier_6_estate_1_10
+				has_reform = theocracy_tier_7_estate_1_10
+				has_reform = theocracy_tier_8_estate_1_10
+				has_reform = theocracy_tier_9_estate_1_10
+				has_reform = theocracy_tier_10_estate_1_10
+				has_reform = theocracy_tier_11_estate_1_10
+				has_reform = theocracy_tier_12_estate_1_10
+				has_reform = theocracy_tier_13_estate_1_10
+				has_reform = theocracy_tier_14_estate_1_10
+				has_reform = theocracy_tier_15_estate_1_10
+				}
+}
+
+has_iv_gov_estate_11 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_11
+				has_reform = monarchy_tier_3_estate_1_11
+				has_reform = monarchy_tier_4_estate_1_11
+				has_reform = monarchy_tier_5_estate_1_11
+				has_reform = monarchy_tier_6_estate_1_11
+				has_reform = monarchy_tier_7_estate_1_11
+				has_reform = monarchy_tier_8_estate_1_11
+				has_reform = monarchy_tier_9_estate_1_11
+				has_reform = monarchy_tier_10_estate_1_11
+				has_reform = monarchy_tier_11_estate_1_11
+				has_reform = monarchy_tier_12_estate_1_11
+				has_reform = monarchy_tier_13_estate_1_11
+				has_reform = monarchy_tier_14_estate_1_11
+				has_reform = monarchy_tier_15_estate_1_11
+				has_reform = republic_tier_2_estate_1_11
+				has_reform = republic_tier_3_estate_1_11
+				has_reform = republic_tier_4_estate_1_11
+				has_reform = republic_tier_5_estate_1_11
+				has_reform = republic_tier_6_estate_1_11
+				has_reform = republic_tier_7_estate_1_11
+				has_reform = republic_tier_8_estate_1_11
+				has_reform = republic_tier_9_estate_1_11
+				has_reform = republic_tier_10_estate_1_11
+				has_reform = republic_tier_11_estate_1_11
+				has_reform = republic_tier_12_estate_1_11
+				has_reform = republic_tier_13_estate_1_11
+				has_reform = republic_tier_14_estate_1_11
+				has_reform = republic_tier_15_estate_1_11
+				has_reform = theocracy_tier_2_estate_1_11
+				has_reform = theocracy_tier_3_estate_1_11
+				has_reform = theocracy_tier_4_estate_1_11
+				has_reform = theocracy_tier_5_estate_1_11
+				has_reform = theocracy_tier_6_estate_1_11
+				has_reform = theocracy_tier_7_estate_1_11
+				has_reform = theocracy_tier_8_estate_1_11
+				has_reform = theocracy_tier_9_estate_1_11
+				has_reform = theocracy_tier_10_estate_1_11
+				has_reform = theocracy_tier_11_estate_1_11
+				has_reform = theocracy_tier_12_estate_1_11
+				has_reform = theocracy_tier_13_estate_1_11
+				has_reform = theocracy_tier_14_estate_1_11
+				has_reform = theocracy_tier_15_estate_1_11
+				}
+}
+
+has_iv_gov_estate_12 = {
+			OR = {
+				has_reform = monarchy_tier_2_estate_1_12
+				has_reform = monarchy_tier_3_estate_1_12
+				has_reform = monarchy_tier_4_estate_1_12
+				has_reform = monarchy_tier_5_estate_1_12
+				has_reform = monarchy_tier_6_estate_1_12
+				has_reform = monarchy_tier_7_estate_1_12
+				has_reform = monarchy_tier_8_estate_1_12
+				has_reform = monarchy_tier_9_estate_1_12
+				has_reform = monarchy_tier_10_estate_1_12
+				has_reform = monarchy_tier_11_estate_1_12
+				has_reform = monarchy_tier_12_estate_1_12
+				has_reform = monarchy_tier_13_estate_1_12
+				has_reform = monarchy_tier_14_estate_1_12
+				has_reform = monarchy_tier_15_estate_1_12
+				has_reform = republic_tier_2_estate_1_12
+				has_reform = republic_tier_3_estate_1_12
+				has_reform = republic_tier_4_estate_1_12
+				has_reform = republic_tier_5_estate_1_12
+				has_reform = republic_tier_6_estate_1_12
+				has_reform = republic_tier_7_estate_1_12
+				has_reform = republic_tier_8_estate_1_12
+				has_reform = republic_tier_9_estate_1_12
+				has_reform = republic_tier_10_estate_1_12
+				has_reform = republic_tier_11_estate_1_12
+				has_reform = republic_tier_12_estate_1_12
+				has_reform = republic_tier_13_estate_1_12
+				has_reform = republic_tier_14_estate_1_12
+				has_reform = republic_tier_15_estate_1_12
+				has_reform = theocracy_tier_2_estate_1_12
+				has_reform = theocracy_tier_3_estate_1_12
+				has_reform = theocracy_tier_4_estate_1_12
+				has_reform = theocracy_tier_5_estate_1_12
+				has_reform = theocracy_tier_6_estate_1_12
+				has_reform = theocracy_tier_7_estate_1_12
+				has_reform = theocracy_tier_8_estate_1_12
+				has_reform = theocracy_tier_9_estate_1_12
+				has_reform = theocracy_tier_10_estate_1_12
+				has_reform = theocracy_tier_11_estate_1_12
+				has_reform = theocracy_tier_12_estate_1_12
+				has_reform = theocracy_tier_13_estate_1_12
+				has_reform = theocracy_tier_14_estate_1_12
+				has_reform = theocracy_tier_15_estate_1_12
+				}
+}
+
+has_iv_gov_reform_expan_1 = {
+			OR = {
+				has_reform = monarchy_tier_2_expan_1_1
+				has_reform = monarchy_tier_3_expan_1_1
+				has_reform = monarchy_tier_4_expan_1_1
+				has_reform = monarchy_tier_5_expan_1_1
+				has_reform = monarchy_tier_6_expan_1_1
+				has_reform = monarchy_tier_7_expan_1_1
+				has_reform = monarchy_tier_8_expan_1_1
+				has_reform = monarchy_tier_9_expan_1_1
+				has_reform = monarchy_tier_10_expan_1_1
+				has_reform = monarchy_tier_11_expan_1_1
+				has_reform = monarchy_tier_12_expan_1_1
+				has_reform = monarchy_tier_13_expan_1_1
+				has_reform = monarchy_tier_14_expan_1_1
+				has_reform = monarchy_tier_15_expan_1_1
+				has_reform = republic_tier_2_expan_1_1
+				has_reform = republic_tier_3_expan_1_1
+				has_reform = republic_tier_4_expan_1_1
+				has_reform = republic_tier_5_expan_1_1
+				has_reform = republic_tier_6_expan_1_1
+				has_reform = republic_tier_7_expan_1_1
+				has_reform = republic_tier_8_expan_1_1
+				has_reform = republic_tier_9_expan_1_1
+				has_reform = republic_tier_10_expan_1_1
+				has_reform = republic_tier_11_expan_1_1
+				has_reform = republic_tier_12_expan_1_1
+				has_reform = republic_tier_13_expan_1_1
+				has_reform = republic_tier_14_expan_1_1
+				has_reform = republic_tier_15_expan_1_1
+				has_reform = theocracy_tier_2_expan_1_1
+				has_reform = theocracy_tier_3_expan_1_1
+				has_reform = theocracy_tier_4_expan_1_1
+				has_reform = theocracy_tier_5_expan_1_1
+				has_reform = theocracy_tier_6_expan_1_1
+				has_reform = theocracy_tier_7_expan_1_1
+				has_reform = theocracy_tier_8_expan_1_1
+				has_reform = theocracy_tier_9_expan_1_1
+				has_reform = theocracy_tier_10_expan_1_1
+				has_reform = theocracy_tier_11_expan_1_1
+				has_reform = theocracy_tier_12_expan_1_1
+				has_reform = theocracy_tier_13_expan_1_1
+				has_reform = theocracy_tier_14_expan_1_1
+				has_reform = theocracy_tier_15_expan_1_1
+				}
+}
+
+has_iv_gov_reform_vision_1 = {
+	custom_trigger_tooltip = {
+		tooltip = IV_reform_has_rev_ideas
+		OR = {
+				has_reform = monarchy_tier_10_vision_1_1
+				has_reform = monarchy_tier_11_vision_1_1
+				has_reform = monarchy_tier_12_vision_1_1
+				has_reform = monarchy_tier_13_vision_1_1
+				has_reform = monarchy_tier_14_vision_1_1
+				has_reform = monarchy_tier_15_vision_1_1
+				has_reform = republic_tier_10_vision_1_1
+				has_reform = republic_tier_11_vision_1_1
+				has_reform = republic_tier_12_vision_1_1
+				has_reform = republic_tier_13_vision_1_1
+				has_reform = republic_tier_14_vision_1_1
+				has_reform = republic_tier_15_vision_1_1
+				has_reform = theocracy_tier_10_vision_1_1
+				has_reform = theocracy_tier_11_vision_1_1
+				has_reform = theocracy_tier_12_vision_1_1
+				has_reform = theocracy_tier_13_vision_1_1
+				has_reform = theocracy_tier_14_vision_1_1
+				has_reform = theocracy_tier_15_vision_1_1
+			}
+	}
+}
+
+
+has_iv_full_idea_group_reli = {
+
+		OR = {
+				full_idea_group = religious_ideas
+				full_idea_group = katholisch0
+				full_idea_group = protestant0
+				full_idea_group = reformiert0
+				full_idea_group = orthodox0
+				full_idea_group = islam0
+				full_idea_group = cathar0
+				full_idea_group = shinto0
+				full_idea_group = norse0
+				full_idea_group = budda0
+				full_idea_group = confuci0 
+				full_idea_group = hindu0
+				full_idea_group = tengri0
+				full_idea_group = coptic0
+				full_idea_group = helle0
+				full_idea_group = slav0
+				full_idea_group = jew0
+				full_idea_group = suomi0
+				full_idea_group = romuva0
+				full_idea_group = animist0
+				full_idea_group = feti0
+				full_idea_group = zoro0
+				full_idea_group = mane0
+				full_idea_group = ancli0
+				full_idea_group = mesoam0
+				full_idea_group = inti0
+				full_idea_group = tote0
+				full_idea_group = nahu0
+				full_idea_group = shia0
+				full_idea_group = ibadi0
+				full_idea_group = hussite0	
+			}	
+				
+}
