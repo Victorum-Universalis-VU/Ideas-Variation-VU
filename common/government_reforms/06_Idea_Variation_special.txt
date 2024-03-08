@@ -1,0 +1,54 @@
+iv_swedish_monarchy = {
+	icon = "allotment_system"
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			primary_culture = swedish
+			primary_culture = finnish
+			primary_culture = norse
+		}
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Lions of the North"
+		}
+		allow_carolean = yes
+	}
+	modifiers = {
+		manpower_in_own_culture_provinces = 0.33
+		manpower_in_accepted_culture_provinces = 0.2
+		manpower_in_culture_group_provinces = 0.1
+	}
+
+	ai = {
+		factor = 1000
+	}
+}
+
+iv_swedish_republic = {
+	icon = "allotment_system"
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			primary_culture = swedish
+			primary_culture = finnish
+			primary_culture = norse
+		}
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Lions of the North"
+		}
+		allow_carolean = yes
+	}
+	modifiers = {
+		max_absolutism = -30
+		manpower_in_own_culture_provinces = 0.33
+		manpower_in_accepted_culture_provinces = 0.2
+		manpower_in_culture_group_provinces = 0.1
+	}
+
+	ai = {
+		factor = 1000
+	}
+}

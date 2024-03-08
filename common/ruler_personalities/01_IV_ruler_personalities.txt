@@ -1,0 +1,1363 @@
+##############################################################################################
+##############################################################################################
+# Ruler Personalities for Idea Variation by flogi
+##############################################################################################
+##############################################################################################
+
+
+###############################################
+# Exclusive (Best) traits Start
+###############################################
+
+iv_personality_1 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	country_admin_power = 1
+	country_diplomatic_power = 1
+	country_military_power = 1
+	nation_designer_cost = 5
+} 
+
+iv_personality_2 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	all_power_cost = -0.1
+	nation_designer_cost = 5
+} 
+
+iv_personality_3 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	free_adm_policy = 1	
+	free_dip_policy = 1
+	free_mil_policy = 1
+	nation_designer_cost = 5
+} 
+
+iv_personality_4 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	monarch_lifespan = 0.33
+	nation_designer_cost = 5
+} 
+
+iv_personality_5 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	technology_cost = -0.1
+	idea_cost = -0.1
+	nation_designer_cost = 5
+} 
+
+iv_personality_6 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	cb_on_religious_enemies = yes
+	extra_manpower_at_religious_war = yes
+	nation_designer_cost = 5
+} 
+
+
+iv_personality_7 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	monthly_reform_progress = 0.5
+	nation_designer_cost = 5
+} 
+
+
+iv_personality_8 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	great_project_upgrade_cost = -0.75
+	great_project_upgrade_time = -0.75
+	nation_designer_cost = 5
+} 
+
+
+iv_personality_9 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	all_estate_loyalty_equilibrium = 0.33
+	nation_designer_cost = 5
+} 
+
+iv_personality_10 = {
+
+	allow = {
+		has_government_attribute = iv_no_advisors
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = iv_no_advisors
+		}
+	}
+	
+	monthly_splendor = 10
+	nation_designer_cost = 5
+} 
+
+
+
+###############################################
+# Exclusive (Best) traits End
+###############################################
+
+
+###############################################
+# General Admin Traits Start
+###############################################
+
+iv_personality_11 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	# Institution growth global 0.5
+	
+	nation_designer_cost = 2
+}
+
+iv_personality_12 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	adm_advisor_cost = -0.25
+	nation_designer_cost = 2
+}
+
+iv_personality_13 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	great_project_upgrade_cost = -0.25
+	great_project_upgrade_time = -0.25
+	nation_designer_cost = 2
+}
+
+iv_personality_14 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	production_efficiency = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_15 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	overextension_impact_modifier = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_16 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	missionaries = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_17 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	interest = -1
+	nation_designer_cost = 2
+}
+
+iv_personality_18 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	all_estate_loyalty_equilibrium = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_19 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	inflation_reduction = 0.2
+	nation_designer_cost = 2
+}
+
+iv_personality_20 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	prestige = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_21 = {
+
+	allow = {
+		colony = 1
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	global_tariffs = 0.25
+	nation_designer_cost = 2
+}
+
+iv_personality_22 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	core_creation = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_23 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	national_focus_years = -15
+	nation_designer_cost = 2
+}
+
+iv_personality_24 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	administrative_efficiency = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_25 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	yearly_absolutism = 1
+    max_absolutism = 20
+	nation_designer_cost = 2
+}
+
+iv_personality_26 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	gold_depletion_chance_modifier = -1
+	nation_designer_cost = 2
+}
+
+iv_personality_27 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	governing_capacity_modifier = 0.25
+	nation_designer_cost = 2
+}
+
+iv_personality_28 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	mercenary_cost = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_29 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	adm_tech_cost_modifier = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_30 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_ADM
+		}
+	}
+	
+	development_cost = -0.1
+	nation_designer_cost = 2
+}
+
+
+
+
+
+###############################################
+# General Admin Traits End
+###############################################
+
+
+###############################################
+# General Dip Traits Start
+###############################################
+
+
+iv_personality_31 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	naval_morale = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_32 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	global_ship_cost = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_33 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	heavy_ship_power = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_34 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	light_ship_power = 0.1
+	transport_power = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_35 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	galley_power = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_36 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	naval_forcelimit_modifier = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_37 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	naval_maintenance_modifier = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_38 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	navy_tradition = 2
+	nation_designer_cost = 2
+}
+
+iv_personality_39 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	global_sailors_modifier = 0.1
+	sailor_maintenance_modifer = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_40 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	naval_morale_damage = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_41 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	diplomats = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_42 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	colonists = 1
+	may_explore = yes
+	nation_designer_cost = 2
+}
+
+iv_personality_43 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	colony_cost_modifier = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_44 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	range = 0.25
+	may_explore = yes
+	nation_designer_cost = 2
+}
+
+iv_personality_45 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	dip_advisor_cost = -0.25
+	nation_designer_cost = 2
+}
+
+iv_personality_46 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	diplomatic_annexation_cost = -0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_47 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	allowed_marine_fraction = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_48 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	vassal_income = 0.25
+	nation_designer_cost = 2
+}
+
+iv_personality_49 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	colony_development_boost = 2
+	nation_designer_cost = 2
+}
+
+iv_personality_50 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	capture_ship_chance = 0.25
+	nation_designer_cost = 2
+}
+
+
+iv_personality_51 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	center_of_trade_upgrade_cost = -0.25
+	nation_designer_cost = 2
+}
+
+iv_personality_52 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	treasure_fleet_income = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_53 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	accept_vassalization_reasons = 15
+	nation_designer_cost = 2
+}
+
+iv_personality_54 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	monthly_splendor = 4
+	nation_designer_cost = 2
+}
+
+iv_personality_55 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	merchants = 1
+	placed_merchant_power = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_56 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	ship_power_propagation = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_57 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	country_diplomatic_power = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_58 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	country_military_power = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_59 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	country_admin_power = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_60 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_DIP
+		}
+	}
+	
+	leader_naval_fire = 1
+    leader_naval_shock = 1
+	nation_designer_cost = 2
+}
+
+
+###############################################
+# General Dip Traits End
+###############################################
+
+
+###############################################
+# General Mil Traits Start
+###############################################
+
+iv_personality_61 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	army_tradition = 1
+	nation_designer_cost = 2
+}
+
+iv_personality_62 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	infantry_power = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_63 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	cavalry_power = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_64 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	artillery_power = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_65 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	defensiveness = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_66 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	global_manpower_modifier = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_67 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	land_forcelimit_modifier = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_68 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	siege_ability = 0.1
+	nation_designer_cost = 2
+}
+
+iv_personality_69 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	fire_damage = 0.075
+	nation_designer_cost = 2
+}
+
+iv_personality_70 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	shock_damage = 0.075
+	nation_designer_cost = 2
+}
+
+iv_personality_71 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	mercenary_discipline = 0.05	
+	nation_designer_cost = 2
+}
+
+iv_personality_72 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	yearly_army_professionalism = 0.03
+	nation_designer_cost = 2
+}
+
+iv_personality_73 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	backrow_artillery_damage = 0.05
+	nation_designer_cost = 2
+}
+
+iv_personality_74 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	global_supply_limit_modifier = 0.15
+	nation_designer_cost = 2
+}
+
+iv_personality_75 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	morale_damage = 0.075
+	nation_designer_cost = 2
+}
+
+iv_personality_76 = {
+
+	allow = {
+
+	}
+	
+	chance = {
+		modifier = {
+			factor = 5
+			has_government_attribute = IV_REFORM_HEIR_MIL
+		}
+	}
+	
+	mil_advisor_cost = -0.25
+	nation_designer_cost = 2
+}
+
+
+
+###############################################
+# General Mil Traits End
+###############################################
