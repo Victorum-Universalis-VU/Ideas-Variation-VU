@@ -263,7 +263,7 @@ iv_policy_all_groups = {
 		    has_idea_group = fire0
 		    has_idea_group = innovativeness_ideas
 		    has_idea_group = spy_ideas
-		    has_idea_group = dynasty0
+			has_idea_group = dynasty0
 		    has_idea_group = influence_ideas
 		    has_idea_group = offensive_ideas
 		    has_idea_group = defensive_ideas
@@ -366,7 +366,7 @@ iv_has_reform_republic_inner_1_2 = {
 			has_reform = republic_tier_13_inner_1_2
 			has_reform = republic_tier_14_inner_1_2
 			has_reform = republic_tier_15_inner_1_2
-			has_reform = republic_tier_16_inner_1_2
+		#	has_reform = republic_tier_16_inner_1_2 #reform doesn't seem to exist
 			
 		}	
 	}	
@@ -1148,7 +1148,7 @@ has_iv_gov_reform_building_bonus_1 = {
 
 has_iv_gov_reform_building_bonus_2 = { 
 	custom_trigger_tooltip = {
-	tooltip = iv_tt_gov_idea_bonus_2
+		tooltip = iv_tt_gov_idea_bonus_2
 		owner = {
 			OR = {
 				has_reform = monarchy_tier_2_handel_1_4
