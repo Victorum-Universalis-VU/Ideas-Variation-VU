@@ -8639,7 +8639,7 @@ country_event = {
 		name = "IDEAEVENT_25_3_3"
 		define_advisor = {
 			type = fortification_expert
-			discount = no
+			#discount = no #hardcoded trigger : only discount = yes is valid
 			skill = 3
 		}
 		
@@ -8651,7 +8651,7 @@ country_event = {
 		random_list = {
 			75 = { define_advisor = {
 			type = fortification_expert
-			discount = no
+			#discount = no
 			skill = 2
 		} }
 			25 = { define_advisor = {
